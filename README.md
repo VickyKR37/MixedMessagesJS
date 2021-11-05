@@ -1,2 +1,2 @@
 # MixedMessagesJS
-Random Bible Quotes - Codecademy Project
+Random Bible Quotes - Codecademy Project using JavaScript
